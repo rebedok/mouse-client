@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mouse</string>
+    <string name="pointerbutton">Pointer</string>
+    <string name="input_ip_address">Input ip address</string>
+    <string name="Settings">Settings</string>
+    <string name="invertOsX">Axis X</string>
+    <string name="hintInvertOsX">Invert X axis</string>
+    <string name="invertOsY">Axis Y</string>
+    <string name="hintInvertOsY">Invert Y axis</string>
+    <string name="changeAxis">Change axes</string>
+    <string name="hintChangeAxis">Change the X and Y axes</string>
+    <string name="changeKey">Change buttons</string>
+    <string name="hintChangeKey">swap left and right mouse buttons</string>
+    <string name="definition">Sensibility</string>
+    <string name="mouse">Mouse</string>
+
+</resources>

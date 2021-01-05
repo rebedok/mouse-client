@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Мышь</string>
+    <string name="pointerbutton">Указка</string>
+    <string name="input_ip_address">Введите ip адрес</string>
+    <string name="Settings">Настройки</string>
+    <string name="invertOsX">Ось X</string>
+    <string name="hintInvertOsX">Инвертировать ось Х</string>
+    <string name="invertOsY">Ось Y</string>
+    <string name="hintInvertOsY">Инвертировать ось Y</string>
+    <string name="changeAxis">Поменять оси</string>
+    <string name="hintChangeAxis">Поменять ось X и Y местами</string>
+    <string name="changeKey">Поменять кнопки</string>
+    <string name="hintChangeKey">Поменять левую и правую кнопки мыши местами</string>
+    <string name="definition">Чувствительность</string>
+    <string name="mouse">Мышь</string>
+
+</resources>

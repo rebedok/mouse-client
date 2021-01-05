@@ -1,0 +1,27 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<CheckBoxPreference
+    android:title="@string/invertOsX"
+    android:key="AxisX"
+    android:summary="@string/hintInvertOsX"
+    android:defaultValue="false" />
+<CheckBoxPreference
+    android:title="@string/invertOsY"
+    android:key="AxisY"
+    android:summary="@string/hintInvertOsY"
+    android:defaultValue="false" />
+<CheckBoxPreference
+    android:title="@string/changeAxis"
+    android:key="ChangeAxis"
+    android:summary="@string/hintChangeAxis"
+    android:defaultValue="false" />
+<CheckBoxPreference
+    android:title="@string/changeKey"
+    android:key="ChangeKey"
+    android:summary="@string/hintChangeKey"
+    android:defaultValue="false" />
+<SeekBarPreference
+    android:max="40"
+    android:title="@string/definition"
+    android:key="Definition"
+    android:defaultValue="20" />
+</PreferenceScreen>
